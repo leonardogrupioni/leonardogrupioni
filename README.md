@@ -21,5 +21,7 @@
 ## Learning
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=leonardogrupioni)
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=leonardogrupioni&theme=radical)
+
  
