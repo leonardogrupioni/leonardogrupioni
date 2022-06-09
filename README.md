@@ -1,11 +1,11 @@
 # 👋 Hey Devs! Welcome to my GitHub profile.
 ## My name is Leonardo Grupioni!
 
--I'm studing Computer Science on Pontifícia Universidade Católica de São Paulo.
+📚I'm studing Computer Science on Pontifícia Universidade Católica de São Paulo.
 
 ## Social
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=:https://www.instagram.com/leo_grupioni/)](https://www.instagram.com/leo_grupioni/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=:https://www.linkedin.com/in/leonardo-grupioni/)](https://www.linkedin.com/in/leonardo-grupioni/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=:https://www.instagram.com/leo_grupioni/)](https://www.instagram.com/leo_grupioni/)
 
 
 ## Best Languages
@@ -17,6 +17,9 @@
 ## Plataforms
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>  <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> 
+
+## Learning
+
 
 <!--
 **leonardogrupioni/leonardogrupioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
