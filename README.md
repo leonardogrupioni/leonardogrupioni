@@ -22,6 +22,5 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=leonardogrupioni&theme=radical)
-
- 
+![Stats](https://github-readme-stats.vercel.app/api?username=leonardogrupioni&theme=radical&hide=contribs)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrupioni&layout=compact&theme=radical)](https://github.com/leonardogrupioni/github-readme-stats)-->
