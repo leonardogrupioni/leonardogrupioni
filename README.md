@@ -1,4 +1,7 @@
-### Hi there 👋
+## 👋 Hey Devs! Welcome to my GitHub profile.
+### My name is Leonardo Grupioni!
+
+-I'm studing Computer Science on Pontifícia Universidade Católica de São Paulo.
 
 <!--
 **leonardogrupioni/leonardogrupioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
