@@ -10,4 +10,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=leonardogrupioni&theme=radical&hide=stars,prs,issues,contribs)   <a href="https://github.com/leonardogrupioni"><img height="150em" width=330em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrupioni&layout=compact&langs_count=7&theme=radical"></a> 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrupioni&layout=compact&theme=radical)](https://github.com/leonardogrupioni/github-readme-stats)-->
--->
+
