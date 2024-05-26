@@ -2,6 +2,8 @@
 ## My name is Leonardo Grupioni!
 
 📚I'm studing Computer Science on Pontifícia Universidade Católica de São Paulo.
+💻Member of the Competitive Programming Team at PUC-SP.
+🔍Research Student in the PIBIC Scientific Initiation Program.
 
 ## Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=:https://www.linkedin.com/in/leonardo-grupioni/)](https://www.linkedin.com/in/leonardo-grupioni/)
