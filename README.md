@@ -15,4 +15,4 @@
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrupioni&layout=compact&theme=radical)](https://github.com/leonardogrupioni/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrupioni&layout=compact&theme=radical)
